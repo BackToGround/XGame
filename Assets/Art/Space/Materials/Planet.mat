@@ -8,7 +8,7 @@ Material:
   m_PrefabInternal: {fileID: 0}
   m_Name: Planet
   m_Shader: {fileID: 4800000, guid: 517fb41dc83a94f4fa098e7e49c0012a, type: 3}
-  m_ShaderKeywords: _ALPHABLEND_ON _EMISSION _NORMALMAP
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA _ALPHABLEND_ON _EMISSION _NORMALMAP
   m_LightmapFlags: 1
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
