@@ -14,7 +14,7 @@ OcclusionCullingSettings:
 RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 8
-  m_Fog: 1
+  m_Fog: 0
   m_FogColor: {r: 0.5058824, g: 0.43921572, b: 0.5058824, a: 1}
   m_FogMode: 2
   m_FogDensity: 0.002
@@ -23,7 +23,7 @@ RenderSettings:
   m_AmbientSkyColor: {r: 1, g: 1, b: 1, a: 1}
   m_AmbientEquatorColor: {r: 0.38823533, g: 0.43529415, b: 0.4784314, a: 1}
   m_AmbientGroundColor: {r: 0.44705886, g: 0.42352945, b: 0.5058824, a: 1}
-  m_AmbientIntensity: 1.62
+  m_AmbientIntensity: 2.36
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
   m_SkyboxMaterial: {fileID: 2100000, guid: 4067de1a02072244798361060c5e7325, type: 2}
@@ -135,8 +135,8 @@ Light:
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 1
-  m_Color: {r: 0.40784317, g: 0.40784317, b: 0.5019608, a: 1}
-  m_Intensity: 0.88
+  m_Color: {r: 0.8235295, g: 0.8235295, b: 0.8235295, a: 1}
+  m_Intensity: 0.4
   m_Range: 10
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -182,13 +182,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 438217344}
-  m_LocalRotation: {x: -0.8445851, y: -0.12507616, z: -0.43276623, w: -0.2893879}
+  m_LocalRotation: {x: -0.8612777, y: -0.1281269, z: -0.40369773, w: -0.28073543}
   m_LocalPosition: {x: 228.2, y: 165.6, z: -341}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 22.369001, y: -240.31699, z: 150.04501}
+  m_LocalEulerAnglesHint: {x: 22.342001, y: -236.05899, z: 151.074}
 --- !u!1001 &1015527364
 Prefab:
   m_ObjectHideFlags: 0
@@ -362,8 +362,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1118441606}
-  m_LocalRotation: {x: 0.08189257, y: 0.88689876, z: -0.17269342, w: 0.42057258}
-  m_LocalPosition: {x: -199.2257, y: 111.6, z: -176.67615}
+  m_LocalRotation: {x: 0.008158676, y: 0.34438527, z: 0.0029952312, w: -0.93878824}
+  m_LocalPosition: {x: 336.77557, y: 21.889086, z: -723.8845}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -381,6 +381,67 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   profile: {fileID: 11400000, guid: bb8733b5b72eb394b99bb9c773d414b9, type: 2}
+--- !u!1 &1255582461
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1255582463}
+  - component: {fileID: 1255582462}
+  m_Layer: 0
+  m_Name: Reflection Probe
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!215 &1255582462
+ReflectionProbe:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1255582461}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Type: 0
+  m_Mode: 0
+  m_RefreshMode: 0
+  m_TimeSlicingMode: 0
+  m_Resolution: 512
+  m_UpdateFrequency: 0
+  m_BoxSize: {x: 537.83356, y: 479.65298, z: 785.022}
+  m_BoxOffset: {x: -263.91678, y: 234.82649, z: 312.32324}
+  m_NearClip: 0.3
+  m_FarClip: 1000
+  m_ShadowDistance: 100
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IntensityMultiplier: 1
+  m_BlendDistance: 1
+  m_HDR: 1
+  m_BoxProjection: 0
+  m_RenderDynamicObjects: 0
+  m_UseOcclusionCulling: 1
+  m_Importance: 1
+  m_CustomBakedTexture: {fileID: 0}
+--- !u!4 &1255582463
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1255582461}
+  m_LocalRotation: {x: 0.008158676, y: 0.34438527, z: 0.0029952312, w: -0.93878824}
+  m_LocalPosition: {x: 336.77557, y: -36, z: -934}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1842330423
 GameObject:
   m_ObjectHideFlags: 0
@@ -412,7 +473,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 978ac1095098a6a4fbd0d93a8ced44a9, type: 2}
+  - {fileID: -1953254494, guid: 2dbbf15cb144a354db51768e1919d389, type: 3}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
