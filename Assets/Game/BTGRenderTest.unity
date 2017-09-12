@@ -407,12 +407,12 @@ ReflectionProbe:
   serializedVersion: 2
   m_Type: 0
   m_Mode: 0
-  m_RefreshMode: 0
+  m_RefreshMode: 1
   m_TimeSlicingMode: 0
   m_Resolution: 512
   m_UpdateFrequency: 0
   m_BoxSize: {x: 537.83356, y: 479.65298, z: 785.022}
-  m_BoxOffset: {x: -263.91678, y: 234.82649, z: 312.32324}
+  m_BoxOffset: {x: 0, y: 0, z: 0}
   m_NearClip: 0.3
   m_FarClip: 1000
   m_ShadowDistance: 100
@@ -436,7 +436,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1255582461}
   m_LocalRotation: {x: 0.008158676, y: 0.34438527, z: 0.0029952312, w: -0.93878824}
-  m_LocalPosition: {x: 336.77557, y: -36, z: -934}
+  m_LocalPosition: {x: 336.77557, y: 21.889086, z: -723.8845}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
