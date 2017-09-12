@@ -1,0 +1,40 @@
+
+Don't forget:(for next-gen platforms - DX11 or GL4+)   
+
+1. Your rendering path must be Deferred (edit->project->graphics)
+
+2. Color space should be Linear (player settings)
+
+3. Graphic API should be DX11(Windows) or OpenGL4(Mac) for HDR and DX9 for non HDR (Player Settings)
+
+4. DX11/GL4 is supported only for volumetric Lighting (Player Settings )
+
+5. Allow HDR should be on in camera components (Inspector)
+
+6. Allow MSAA should be disabled in the Camera components (Inspector)
+
+7. Shadows should be activated in quality settings (edit->project-> quality)
+
+Specially when you have imported a new complete project(for example UFPS) you must re setup these 7 steps again for your project
+
+
+
+For WebGL and DX9 :
+
+1. Install Unity 2017.2 for WebGL2.0 and Linear color space support (Lighting Box is based on Linear color space by default)
+
+2. Disable Eye-Adaptation from post processing stack profile
+
+3. Go to Edit->Project->Player settings and remove WebGL1.0 platform (first unchecked Auto Graphics API)
+
+4. Got to Edit->Project->Player settings and set 512 or 1024 as WebGL Memory Size in Publishing Settings (Test on web browser about memory limitations)
+
+5. Disable Volumetric Light from Lighting Box Window
+
+
+
+DX 9  support :
+
+1. Disable Eye-Adaptation from post processing stack profile
+
+2. Disable Volumetric Light from Lighting Box Window

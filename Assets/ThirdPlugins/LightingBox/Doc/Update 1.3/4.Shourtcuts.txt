@@ -1,0 +1,11 @@
+
+
+
+Start Bake : LeftShift + B
+Cancel Bake : LeftShift + C
+Clear Lightmaps data : Shift + E
+Open LightingWindow : Shift + F
+Open Lighting Box : Shift + R
+
+
+note: you can easily add more shortcuts in EditorHotkeysTracker script

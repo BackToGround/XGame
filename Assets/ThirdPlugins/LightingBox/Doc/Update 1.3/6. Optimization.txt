@@ -1,0 +1,37 @@
+
+
+
+1. Select Post Processing profile and follow below steps:
+* Set Ambient Occlusion to Lowest for best performance. Quality will be good.
+* Disable Screen Space Reflections for outdoor scenes
+* If you want to use SSR, you can set it to Low quality with 2x more fps compare to high mode
+
+
+2. Go to Edit->Project Settings and set shadow quality to lower levels based on your quality needs
+
+3. Always use Occlusion Culling. Window->Occlusion Culling and press Bake (Don't forget to set your scene models as OC static)
+
+4. Go to Edit->Graphics and set Realtime GI CPU Usage to low
+
+5. Always use LOD system for models.Specially for trees and grass
+
+6. If you don't need special effects , so always use Standard shader for materials (best compability,best performance)
+
+7. Always use 2d grass in terrain system instead of 3d grass models (for example speed tree 3d grass models is not good)
+Unity terrain  grass system is a lot more optimized and has more realistic look
+
+8. You can use Per-Layer Camera Clipping to hide small objects in far distances. It's one of the best solutions to optimize game .
+I already used that for mobile platforms with great performance improvement results
+https://www.assetstore.unity3d.com/en/#!/content/35100
+
+9. You can increase terrain pixel error to optimize terrain geometry on far distances (find it in terrain settings tab)
+
+10. Reducing resolution is always the best and fastest solution to optimize game performance.
+For example a game can be run in 900P on xbox one and 1080P on ps4. but ps4 gpu is 50% more powerful than xbox one gpu
+
+11. Linear color space is the target color space for my package. It's used in almost all next gen games and game engines
+Also you can switch to Gamma color space for higher performance if you needs.
+After that, you should reduce post effects brightness in post processing stack's profiles.Also you should rebuild lighting
+
+12. The most important part of the Quality settings is the shadow quality.
+if you needs higher performance, just reduce shadow quality from high to medium or low preset

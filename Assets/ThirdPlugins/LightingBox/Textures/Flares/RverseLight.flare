@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!121 &12100000
+Flare:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: RverseLight
+  m_FlareTexture: {fileID: 2800000, guid: 87dd1fafb6c3dfa44b99d4d774d094a5, type: 3}
+  m_TextureLayout: 2
+  m_Elements:
+  - m_ImageIndex: 0
+    m_Position: 0
+    m_Size: 73
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_UseLightColor: 1
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  m_UseFog: 1

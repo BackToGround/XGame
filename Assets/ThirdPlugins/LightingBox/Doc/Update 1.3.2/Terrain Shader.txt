@@ -1,0 +1,37 @@
+
+
+Terrain shader
+
+- You can find terrain shader from LightingBox/Terrain 6-Layers
+
+- LightingBox terrain shader has been used Tessellation technique. So it needs DirectX 11-12 on Windows and OpenGL Core (OpenGL 4.0+) on mac or linux
+
+- Performance is maximum (You can reduce max tessellation to get higher performance. Current (4.3) is the best choice
+also tessellation amount will depend on our terrain height map and height map resolution. Flatten areas has less tessellation amount   
+
+
+Terrain shader has :
+
+- Displacement map (stored in alpha channel of the albedo texture )
+
+- Smoothness map (will be automatically read from blue channel of the albedo texture )
+
+- Normal map (separate texture sample)
+
+- Albedo (separate texture sample). Must be saved in TGA or PSD file format to get displacement map from its alpha channel (watch the videos)
+
+
+How to use
+1. Create a new terrain. select layers (brush icon) and create 4 sample splats-layers (or simply drag terrain prefab from LightingBox prefabs folder into your scene)
+
+2. Add LightingBox Terrain  component into your terrain
+
+3. Create a new material in you project files
+
+4. Assign created material into Material slot of the LightingBox Terrain component
+
+5. Press Initialize to start working on tessellated terrain
+
+Watch the videos :
+
+https://youtu.be/M0xn4KXdL2g

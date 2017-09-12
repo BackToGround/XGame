@@ -1,0 +1,20 @@
+
+Download tutorial videos:
+http://89.163.206.23/LightingBoxTuts1.2.zip
+
+New tutorials will be available from these link (It's not available now)
+if any new videos will be available in the future, you can download from below links:
+http://89.163.206.23/LightingBoxTuts1.2_1.zip
+http://89.163.206.23/LightingBoxTuts1.2_2.zip
+http://89.163.206.23/LightingBoxTuts1.2_3.zip
+
+Follow here for new features or videos news :
+https://forum.unity3d.com/threads/50-off-lighting-box-nextgen-lighting-released.475644/
+
+
+Note : Sample demo project is not updated after first 1.0 release of lighting box
+You can replace scripts with latest update
+
+Download LightingBox1.2 with some nbew models and tetxures from here :
+https://drive.google.com/file/d/0B2WDRR3zNNn8ZFo1VWtYbmxWbU0/view?usp=sharing
+Update Shaders and Settings folder with current package

@@ -1,0 +1,45 @@
+
+Tips:
+
+1. Don't forget  switch to Deferred rendering path in Edit->Project->Graphics.
+Especially when you are importing an complete package (UFPS ...)into current project, you should do following settings again for next gen platforms:
+*. Deffered rendering
+*. Quality settings
+*. Graphic API in player settings set it to DX11+
+*. Select camera and activate HDR and deactivate Allow MSAA
+
+note : DX9 doesn't support HDR eye adaption effect
+
+2. Linear color space is used in all next gen games (UE,Frostbite,...)
+Gamma space quality is not bad but you may need to change scene brightness again when you are in Gamma space.
+My default color space for Lighting Box settings is Linear (You can switch quickly in Lighting Box)
+
+3. WebGL platform doesn't support Eye adaption. Also doesn't support Linear color space
+
+4. I always using Very-Low parameters to bake lighting with enlighten. Don't worry about quality. All settings quality are same between High and low
+For bake mode with Progressive Lightmapper(PLM), you can use highest setting. Don't forget to follow my you tube channel
+about how to baking nature scenes with PLM. You need different lighting parameters for different  objects.
+Also don't forget to change terrain object lightmap parameters manually. It does't update automatically and always is Very-Low by default   
+
+
+5..This asset originally is made for Frostbite style lighting for outdoor scenes and for next gen platforms. For Interior scene 
+i will create a new one that's available in the future in Interior Lighting Kit (maybe)
+Also another one for Mobile platforms will be available   soon (maybe)   
+
+6. My default settings are for maximum quality. My target was 30-60 fps on gtx 960 in 1080p resolution
+You can watch my optimization video on youtube for maximum quality per performance    
+
+7. The best way to create next-gen assets (specialy characters and rocks)  is Photogrammetry (Unreal kite demo, Battlefield and all frostbite games and ...)
+ You can easily make your photorealistic character models using a Iphone 5s and Agisoft Photoscan software. 
+ Watch my video on youtube to find how to quickly make model in few hours   
+
+ 8. You can use mixamo auto rigger to rig quickly your scanned models : https://www.mixamo.com
+
+ 9. Always use a mid-range GPU to test optimizations:
+ low-end : ~ GTX 550ti (near to xbox one) or AMD 7770 (same as Xbox one) (720p)
+ mid-range : GTX 960 (about 1.5 Ps4 power) ot 7850 (same as PS4) (1080p)
+ high-end : ... (4K)   
+
+ 10.Don't worry about unity performance .These are all rumors.These are all Crap. Unity is fastest game engine on the world. 
+ Just compare editor speed, shader compile speed, build speed, import export speed, low-end device support, gamma color space support and ... with other engines
+
