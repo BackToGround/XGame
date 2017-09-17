@@ -7,11 +7,6 @@ public class BRGRoomMenu : Photon.PunBehaviour
     // Use this for initialization
     void Start()
     {
-        //PhotonNetwork.networkingPeer.AuthValues = new AuthenticationValues();
-        //PhotonNetwork.networkingPeer.AuthValues.AuthType = CustomAuthenticationType.Custom;
-        //PhotonNetwork.networkingPeer.AuthValues.AddAuthParameter("user", "tachen");
-        //PhotonNetwork.networkingPeer.AuthValues.AddAuthParameter("pass", "tachen01");
-
         PhotonNetwork.ConnectUsingSettings("v1.0");
         PhotonNetwork.automaticallySyncScene = true; 
     }

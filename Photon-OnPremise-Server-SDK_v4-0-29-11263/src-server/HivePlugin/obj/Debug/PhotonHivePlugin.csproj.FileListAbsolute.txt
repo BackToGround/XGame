@@ -1,4 +1,0 @@
-E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\HivePlugin\bin\Debug\PhotonHivePlugin.dll
-E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\HivePlugin\bin\Debug\PhotonHivePlugin.pdb
-E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\HivePlugin\obj\Debug\PhotonHivePlugin.dll
-E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\HivePlugin\obj\Debug\PhotonHivePlugin.pdb
