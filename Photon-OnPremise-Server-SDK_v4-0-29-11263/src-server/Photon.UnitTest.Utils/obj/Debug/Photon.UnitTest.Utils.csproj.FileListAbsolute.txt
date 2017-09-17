@@ -1,0 +1,16 @@
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\Photon.UnitTest.Utils.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\Photon.UnitTest.Utils.pdb
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\ExitGamesLibs.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\nunit.framework.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\Photon.SocketServer.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\Photon3DotNet.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\PhotonHostRuntimeInterfaces.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\websocket-sharp.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\ExitGamesLibs.pdb
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\ExitGamesLibs.xml
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\Photon.SocketServer.pdb
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\Photon.SocketServer.xml
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\Photon3DotNet.pdb
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\bin\Debug\Photon3DotNet.xml
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\obj\Debug\Photon.UnitTest.Utils.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Photon.UnitTest.Utils\obj\Debug\Photon.UnitTest.Utils.pdb

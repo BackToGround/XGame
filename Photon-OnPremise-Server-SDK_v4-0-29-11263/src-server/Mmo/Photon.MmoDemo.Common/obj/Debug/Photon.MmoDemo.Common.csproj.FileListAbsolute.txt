@@ -3,3 +3,7 @@ E:\exe\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.C
 E:\exe\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.Common\obj\Debug\Photon.MmoDemo.Common.csprojResolveAssemblyReference.cache
 E:\exe\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.Common\obj\Debug\Photon.MmoDemo.Common.dll
 E:\exe\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.Common\obj\Debug\Photon.MmoDemo.Common.pdb
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.Common\bin\Debug\Photon.MmoDemo.Common.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.Common\bin\Debug\Photon.MmoDemo.Common.pdb
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.Common\obj\Debug\Photon.MmoDemo.Common.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.Common\obj\Debug\Photon.MmoDemo.Common.pdb

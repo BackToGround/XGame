@@ -8,3 +8,13 @@ E:\exe\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.C
 E:\exe\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.Client.DotNet\bin\Debug\Photon3DotNet.xml
 E:\exe\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.Client.DotNet\obj\Debug\Photon.MmoDemo.Client.DotNet.dll
 E:\exe\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.Client.DotNet\obj\Debug\Photon.MmoDemo.Client.DotNet.pdb
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.Client.DotNet\bin\Debug\Photon.MmoDemo.Client.DotNet.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.Client.DotNet\bin\Debug\Photon.MmoDemo.Client.DotNet.pdb
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.Client.DotNet\bin\Debug\Photon.MmoDemo.Common.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.Client.DotNet\bin\Debug\Photon3DotNet.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.Client.DotNet\bin\Debug\websocket-sharp.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.Client.DotNet\bin\Debug\Photon.MmoDemo.Common.pdb
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.Client.DotNet\bin\Debug\Photon3DotNet.pdb
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.Client.DotNet\bin\Debug\Photon3DotNet.xml
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.Client.DotNet\obj\Debug\Photon.MmoDemo.Client.DotNet.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\Photon.MmoDemo.Client.DotNet\obj\Debug\Photon.MmoDemo.Client.DotNet.pdb

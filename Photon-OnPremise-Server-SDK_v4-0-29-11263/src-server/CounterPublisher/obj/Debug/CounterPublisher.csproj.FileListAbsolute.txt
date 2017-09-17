@@ -1,0 +1,17 @@
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\CounterPublisher\bin\log4net.config
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\CounterPublisher\bin\CounterPublisher.dll.config
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\CounterPublisher\bin\CounterPublisher.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\CounterPublisher\bin\CounterPublisher.pdb
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\CounterPublisher\bin\ExitGames.Logging.Log4Net.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\CounterPublisher\bin\ExitGamesLibs.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\CounterPublisher\bin\log4net.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\CounterPublisher\bin\Photon.SocketServer.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\CounterPublisher\bin\PhotonHostRuntimeInterfaces.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\CounterPublisher\bin\ExitGames.Logging.Log4Net.pdb
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\CounterPublisher\bin\ExitGames.Logging.Log4Net.xml
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\CounterPublisher\bin\ExitGamesLibs.pdb
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\CounterPublisher\bin\ExitGamesLibs.xml
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\CounterPublisher\bin\Photon.SocketServer.pdb
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\CounterPublisher\bin\Photon.SocketServer.xml
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\CounterPublisher\obj\Debug\CounterPublisher.dll
+E:\Github\XGame\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\CounterPublisher\obj\Debug\CounterPublisher.pdb
