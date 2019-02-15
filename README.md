@@ -1,2 +1,2 @@
-# XGame
-We are useing unity 2017.1.0f3 now
+# More information on wiki
+https://github.com/BackToGround/XGame/wiki
